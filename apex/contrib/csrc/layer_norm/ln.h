@@ -1,6 +1,7 @@
 #pragma once
 
 #include <stdint.h>
+#include <stdlib.h>
 #include <unordered_map>
 #include <cuda_fp16.h>
 #include <cuda_bf16.h>
